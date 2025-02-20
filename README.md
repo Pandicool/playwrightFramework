@@ -1,4 +1,4 @@
-# PlaywrightFramework <a href="https://playwright.dev/docs" target="_blank" rel="noreferrer"><img src="![image](https://github.com/user-attachments/assets/b82e774b-5471-4b82-a2e3-d2173e2c19ca)" width="10" height="10" alt="playwright" /></a>
+# PlaywrightFramework <a href="https://playwright.dev/docs" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b82e774b-5471-4b82-a2e3-d2173e2c19ca" width="36" height="36" alt="playwright" /></a>
 
 Playwright Testing framework by Pandiya rajan A
 
