@@ -1,17 +1,28 @@
-# PlaywrightFramework
+# PlaywrightFramework <a href="https://playwright.dev/docs" target="_blank" rel="noreferrer"><img src="![image](https://github.com/user-attachments/assets/b82e774b-5471-4b82-a2e3-d2173e2c19ca)" width="10" height="10" alt="playwright" /></a>
 
 Playwright Testing framework by Pandiya rajan A
 
-1. Clone the file using https://github.com/Pandicool/playwrightFramework.git
-2. Execute the command 
+## Getting Started
+1. Ensure that Node.js 10+ is installed
+   https://nodejs.org/en/download/
 
-npm install
-git checkout master
-
-3. Executing all the test in headed mode
-
-npm run test
-
-4. Executing specfic test case in specfic browser in headed mode 
-
-npm run test:<browserName> <testName>
+2. Clone the repo and switch to master
+```
+    $ git clone https://github.com/Pandicool/playwrightFramework.git
+    $ cd playwrightFramework
+    $ git checkout master
+```
+3. Execute the command to install the npm dependencies
+```
+    $ npm install
+```
+## Running Tests
+1. Executing all the test in headed mode
+```
+    $ npm run test
+```
+2. Executing specfic test case in specfic browser in headed mode and debug mode
+```
+    $ npm run test:<browserName> <testName>
+```
+> Note: Refer to package.json to know more scripts
