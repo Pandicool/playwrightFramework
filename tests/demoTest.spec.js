@@ -8,7 +8,7 @@ test.skip('Demo blaze launch browser', async ({ page }) => {
     await page.goto("https://demoblaze.com/");
     await page.title();//to get title of browser tab
     await page.url(); // to fetch the url
-    await expect(page).toHaveTitle("STORE");
+    await expect(page).toHaveTitle("STORE"); //added validation
     await page.close();
 })
 
